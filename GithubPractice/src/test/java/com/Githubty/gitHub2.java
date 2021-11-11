@@ -10,6 +10,7 @@ public class gitHub2
 		System.out.println("second commit");
 		System.out.println("hello");
 		System.out.println("gudeveng");
+		System.out.println("have a nice day");
 	}
 
 }
