@@ -8,6 +8,7 @@ public class gitHub2
 	public void demo2()
 	{
 		System.out.println("second commit");
+		System.out.println("hello");
 	}
 
 }
