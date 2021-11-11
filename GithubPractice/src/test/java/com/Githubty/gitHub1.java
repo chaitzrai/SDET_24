@@ -8,6 +8,7 @@ public class gitHub1
 	public void demo1()
 	{
 		System.out.println("User 1 First commit");
+		System.out.println("hello");
 	}
 
 }
