@@ -2,7 +2,7 @@ package com.Githubty;
 
 import org.testng.annotations.Test;
 
-public class gitHub2 
+public class gitHub2Test 
 {
 	@Test
 	public void demo2()
