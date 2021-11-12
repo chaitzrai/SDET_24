@@ -11,6 +11,7 @@ public class gitHub2Test
 		System.out.println("hello");
 		System.out.println("gudeveng");
 		System.out.println("have a nice day");
+		System.out.println("cyaaa");
 	}
 
 }
